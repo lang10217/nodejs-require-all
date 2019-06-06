@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-require-all",
+  "version": "0.0.3",
+  "description": "require all files",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test/index.js",
+    "publ": "npm publish"
+  },
+  "keywords": [
+    "nodejs-require-all",
+    "require-all"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
